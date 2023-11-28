@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@200&family=Roboto:wght@300&display=swap');
+
+body{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+
+
+}
+
+.c1{
+    background-color: #323f4b;
+    height: 100px;
+    width: 1650px;
+    position: relative;
+    bottom: 10px;
+    right: 8px;
+    padding-left: 700px;
+    padding-top: 22px;
+}
+
+h1{
+    font-family: "Roboto";
+    font-weight: bold;
+    color: white;
+}
+
+p{
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.c2{
+    background-color: #47a3f3;
+    height: 80px;
+    margin: 45px 40px 16px 40px;
+    border-radius: 16px;
+    border-bottom-right-radius: 0;
+    padding-top: 14px;
+    padding-left: 1060px;
+}
+
+.c3{
+    background-color: #52606d;
+    height: 80px;
+    margin: 30px 40px;
+    border-radius: 16px;
+    border-bottom-left-radius: 0;
+    padding-top: 14px;
+    padding-left: 60px;
+}
+
+.c4{
+    background-color: #47a3f3;
+    height: 80px;
+    margin: 30px 40px;
+    border-radius: 16px;
+    border-bottom-right-radius: 0;
+    padding-top: 14px;
+    padding-left: 1060px;
+}
+
+.c5{
+    background-color: #52606d;
+    height: 80px;
+    margin: 30px 40px;
+    border-radius: 16px;
+    border-bottom-left-radius: 0;
+    padding-top: 14px;
+    padding-left: 60px;
+}
+
+.c6{
+    background-color: #47a3f3;
+    height: 80px;
+    margin: 30px 40px;
+    border-radius: 16px;
+    border-bottom-right-radius: 0;
+    padding-top: 14px;
+    padding-left: 1060px;
+}
+
+.c7{
+    background-color: #52606d;
+    height: 80px;
+    margin: 30px 40px;
+    border-radius: 16px;
+    border-bottom-left-radius: 0;
+    padding-top: 14px;
+    padding-left: 60px;
+}
+
+.c8{
+    background-color: #47a3f3;
+    height: 80px;
+    margin: 30px 40px;
+    border-radius: 16px;
+    border-bottom-right-radius: 0;
+    padding-top: 14px;
+    padding-left: 1060px;
+}
